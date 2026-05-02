@@ -232,4 +232,4 @@ Son olarak, projeyi bir canlı sunucuya veya bulut platformuna (AWS, DigitalOcea
 Dosyaları Sunucuya Yükleyin: FTP veya SSH ile tüm proje dosyalarını sunucuya gönderin.
 Veritabanı Bağlantılarını Ayarlayın: Sunucu üzerinde veritabanını oluşturup .env dosyasında sunucuya özel veritabanı ayarlarını yapın.
 SSL Sertifikası Ekleyin: Güvenli HTTPS bağlantısı sağlamak için SSL sertifikası yükleyin.
-Crontab ve Zamanlanmış Görevler: Laravel task scheduling ile belirli işlerin düzenli çalışması için crontab ayarlayın.
+Crontab ve Zamanlanmış Görevler: Laravel task scheduling ile belirli işlerin düzenli çalışması için crontab ayarlayın...
